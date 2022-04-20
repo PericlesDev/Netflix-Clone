@@ -9,3 +9,5 @@ Linha de partida para o Desenvolvimento da Netflix Clone | Iniciativa: Bootcamp 
 
 * Parte 4: Implementando Icons,jQuery, e informações de um banco de dados com imagens e descrições no objetivo de mesclar ao Javascript para uma performance na interface suave e funcional de um Carousel.
 
+* Parte 5: Documentando a responsividade dos Media Screen no objetivo de trazer acessibilidade para diferentes layouts do projeto.
+
