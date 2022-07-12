@@ -13,3 +13,21 @@
 
 * Parte 5: <strong>Proporção de Layout:</strong> Responsividade e Acessibilidade. <hr>
 
+<h3>Front-end</h3>
+
+<h1 align="center">
+    <img alt="frontNetflix" src="/Img/frontNetflix.png" width=1000px" />
+</h1>
+
+
+<h3>Back-end</h3>
+
+<h1 align="center">
+    <img alt="backNetflix" src="/Img/backNetflix.png" width=1000px" />
+</h1>
+  <h3 align="center">Tecnologias, e Biblioteca utilizadas no projeto</h3>
+✔️HTML5 <br>
+✔️CSS3 <br>
+✔️JavaScript <br>
+✔️Bootstrap <br>
+✔️Jquery <br>
