@@ -1,13 +1,15 @@
-# Netflix-Clone
-Linha de partida para o Desenvolvimento da Netflix Clone | Iniciativa: Bootcamp Carrefour Web Developer - DIO
+<h1 align="center">Netflix-Clone</h1>
 
-* Parte 1:  Estruturando o Cabeçalho com Menu de Navegação, e link para direcionar o visitante em uma determinada área do projeto.
+<h4 align="center">Linha de partida para o Desenvolvimento da Netflix Clone | Iniciativa: Bootcamp Carrefour Web Developer - DIO</h4>
+                                                 <hr>
 
-* Parte 2: Desconfigurando o espaçamento padrão que diferentes Browsers colocam nas paginas, absorvendo Variáveis no meu Css, e aprendendo sobre Seletores.
+* Parte 1: <strong>Cabeçalho com Menu de Navegação:</strong> - HTML semântico. <hr>
 
-* Parte 3: Desenvolvendo Containers com as propriedades do Flex-box, e compreendendo sua hierarquia de contribuições de cada Elemento.
+* Parte 2: <strong>Seletores, Propriedades e Valores:</strong> -Reset CSS & Variáveis. <hr>
 
-* Parte 4: Implementando Icons,jQuery, e informações de um banco de dados com imagens e descrições no objetivo de mesclar ao Javascript para uma performance na interface suave e funcional de um Carousel.
+* Parte 3: <strong>Tags Genéricas, Flex-box:</strong> Hierarquia das Divs. <hr>
 
-* Parte 5: Documentando a responsividade dos Media Screen no objetivo de trazer acessibilidade para diferentes layouts do projeto.
+* Parte 4: <strong>Icons, jQuery, Imagens JPG:</strong> Bibliotecas e Banco de Dados. <hr>
+
+* Parte 5: <strong>Proporção de Layout:</strong> Responsividade e Acessibilidade. <hr>
 
